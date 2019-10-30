@@ -1,0 +1,24 @@
+
+* {
+    -fx-primary : #2A2E37;
+    -fx-secondary : #FFFF8D;
+    -fx-primarytext : #4d4d4d;
+    -fx-blue: #1976D2;
+    -fx-red: #DC143C;
+    -fx-color-1:#1976D2;
+}
+
+.root{
+    -fx-background-color: -fx-primarytext;
+}
+
+.rootre{
+	  -fx-background-color: -fx-primary;
+}
+
+.splitpane{
+	  -fx-background-color: -fx-primary;
+}
+
+
+
